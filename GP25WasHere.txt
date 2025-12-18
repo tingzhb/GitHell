@@ -1,2 +1,17 @@
 This is line 1
-This is lin 22222222
+This is line 2
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
